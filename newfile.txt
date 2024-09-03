@@ -1,1 +1,5 @@
-Hello, Git!
+My name is Ivan
+:wq
+
+
+This is a new feature added to newfile.txt
