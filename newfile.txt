@@ -2,4 +2,7 @@ My name is Ivan
 :wq
 
 
-This is a new feature added to newfile.txt
+
+sussyasduasdadasad
+
+his is a new feature added to newfile.txt
